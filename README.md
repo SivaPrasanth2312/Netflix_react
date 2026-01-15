@@ -1,1 +1,1 @@
-
+ sleek and responsive **Netflix-style movie browsing interface** built using **React** and integrated with the **TMDB (The Movie Database) API**. Browse movies by genre, view posters, and **watch trailers directly in a popup modal** — all in one beautiful frontend experience.
